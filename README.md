@@ -1,5 +1,7 @@
 # AI Timeline
 Yet another timeline image for AI covering most important events.
+![AI Timeline](AI-Timeline-100dpi.jpg)
+
 
 ## Introduction
 All over the Internet, there is no complete timeline image covering all the important events related to AI. So here you can find a complete timeline covering all important events from 1900 to 2005.
