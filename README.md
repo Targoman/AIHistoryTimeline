@@ -1,6 +1,6 @@
 # AI History Timeline
-Yet another timeline image for AI history covering the most important events since 1900 to 2025.
-![AI Timeline](AI-Timeline-100dpi.jpg)
+Yet another timeline image for AI history covering the most important events from 1900 to 2025.
+![AI Timeline](AI-History-Timeline-100dpi.jpg)
 
 
 ## Introduction
