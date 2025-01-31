@@ -8,7 +8,7 @@ All over the Internet, there is no complete timeline image covering all the impo
 
 ## Types of Timeline Images
 - **SVG**: Base timeline has been made using Inkscape v1.0.1 and saved as Inkscape compatible SVG with all the guidelines.
-- **PNG**: The SVG file has been exported to PNG using Inkscape as a transparent 300dpi image.
+- **PNG**: The SVG file has been exported to PNG using Inkscape as a transparent 100dpi image.
 - **PDF**: The SVG file has also been exported as a transparent PDF file using Inkscape where all the texts have been converted to paths.
 - **JPEG**: The exported PDF file has been converted to JPEG using GIMP 2.10.30 in two versions: 300dpi and 100dpi.
 
